@@ -18,7 +18,7 @@ Welcome to my **Project Portfolio Website** repository! This project is a person
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/project-portfolio-website.git
+  https://github.com/RudraPratapSingh10/OPTIFY-PORTFOLIO-WEBSITE-.gitt
    ```
 2. Open the `index.html` file in your browser to view the website.
 
